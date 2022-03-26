@@ -12,10 +12,10 @@ class Program
         Console.WriteLine("GetEnumerator:");
         foreach (var item in cll)
             Console.WriteLine(item);
-        //
+
         Console.WriteLine("GetEnumerableDESC:");
         foreach (var item in cll.GetEnumerableDESC())
-            Console.WriteLine(item);
+           Console.WriteLine(item);
 
 
 

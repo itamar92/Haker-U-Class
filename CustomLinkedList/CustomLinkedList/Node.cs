@@ -3,20 +3,21 @@ using System.Collections.Generic;
 namespace CustomLinkedListPractice
 
 {
-	public class Node
-	{
+    public class Node<T>
+    {
+        internal T Value { get; set; }
+        internal Node<T> prev { get; set; }
+        internal Node<T> next { get; set; }
+        public Node() { }
+        public Node(T value)
+        {
+            Value = value;
+        }
 
-		internal Object Value { get; set; }
-		internal Node prev;
-		internal Node next { get; set; }
-
-
-		public Node(Object value)
-		{
-			Value = value;
-			prev = null;
-			next = null;
-		}
-	}
+        public override string ToString()
+        {
+            return Value.ToString();
+        }
+    }
 }
 
