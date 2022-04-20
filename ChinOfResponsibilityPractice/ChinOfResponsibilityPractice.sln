@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChinOfResponsibilityPractice", "ChinOfResponsibilityPractice\ChinOfResponsibilityPractice.csproj", "{7F5AE663-583E-48F8-AACC-FE5E108CA02F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F5AE663-583E-48F8-AACC-FE5E108CA02F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F5AE663-583E-48F8-AACC-FE5E108CA02F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F5AE663-583E-48F8-AACC-FE5E108CA02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F5AE663-583E-48F8-AACC-FE5E108CA02F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2B4B773-A77F-48B8-BF87-DF56CF7E2811}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/itamar/Haker U Class/Dot Net/Design Patterns/Chain of Responibility/ChinOfResponsibilityPractice/ChinOfResponsibilityPractice/bin/Debug/net6.0/ChinOfResponsibilityPractice
+/Users/itamar/Haker U Class/Dot Net/Design Patterns/Chain of Responibility/ChinOfResponsibilityPractice/ChinOfResponsibilityPractice/bin/Debug/net6.0/ChinOfResponsibilityPractice.deps.json
+/Users/itamar/Haker U Class/Dot Net/Design Patterns/Chain of Responibility/ChinOfResponsibilityPractice/ChinOfResponsibilityPractice/bin/Debug/net6.0/ChinOfResponsibilityPractice.runtimeconfig.json
+/Users/itamar/Haker U Class/Dot Net/Design Patterns/Chain of Responibility/ChinOfResponsibilityPractice/ChinOfResponsibilityPractice/bin/Debug/net6.0/ChinOfResponsibilityPractice.dll
+/Users/itamar/Haker U Class/Dot Net/Design Patterns/Chain of Responibility/ChinOfResponsibilityPractice/ChinOfResponsibilityPractice/bin/Debug/net6.0/ChinOfResponsibilityPractice.pdb
+/Users/itamar/Haker U Class/Dot Net/Design Patterns/Chain of Responibility/ChinOfResponsibilityPractice/ChinOfResponsibilityPractice/obj/Debug/net6.0/ChinOfResponsibilityPractice.csproj.AssemblyReference.cache
+/Users/itamar/Haker U Class/Dot Net/Design Patterns/Chain of Responibility/ChinOfResponsibilityPractice/ChinOfResponsibilityPractice/obj/Debug/net6.0/ChinOfResponsibilityPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itamar/Haker U Class/Dot Net/Design Patterns/Chain of Responibility/ChinOfResponsibilityPractice/ChinOfResponsibilityPractice/obj/Debug/net6.0/ChinOfResponsibilityPractice.AssemblyInfoInputs.cache
+/Users/itamar/Haker U Class/Dot Net/Design Patterns/Chain of Responibility/ChinOfResponsibilityPractice/ChinOfResponsibilityPractice/obj/Debug/net6.0/ChinOfResponsibilityPractice.AssemblyInfo.cs
+/Users/itamar/Haker U Class/Dot Net/Design Patterns/Chain of Responibility/ChinOfResponsibilityPractice/ChinOfResponsibilityPractice/obj/Debug/net6.0/ChinOfResponsibilityPractice.csproj.CoreCompileInputs.cache
+/Users/itamar/Haker U Class/Dot Net/Design Patterns/Chain of Responibility/ChinOfResponsibilityPractice/ChinOfResponsibilityPractice/obj/Debug/net6.0/ChinOfResponsibilityPractice.dll
+/Users/itamar/Haker U Class/Dot Net/Design Patterns/Chain of Responibility/ChinOfResponsibilityPractice/ChinOfResponsibilityPractice/obj/Debug/net6.0/refint/ChinOfResponsibilityPractice.dll
+/Users/itamar/Haker U Class/Dot Net/Design Patterns/Chain of Responibility/ChinOfResponsibilityPractice/ChinOfResponsibilityPractice/obj/Debug/net6.0/ChinOfResponsibilityPractice.pdb
+/Users/itamar/Haker U Class/Dot Net/Design Patterns/Chain of Responibility/ChinOfResponsibilityPractice/ChinOfResponsibilityPractice/obj/Debug/net6.0/ChinOfResponsibilityPractice.genruntimeconfig.cache
+/Users/itamar/Haker U Class/Dot Net/Design Patterns/Chain of Responibility/ChinOfResponsibilityPractice/ChinOfResponsibilityPractice/obj/Debug/net6.0/ref/ChinOfResponsibilityPractice.dll
